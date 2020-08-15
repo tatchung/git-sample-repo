@@ -1,5 +1,7 @@
 Change1
 
+Change2
+
 Git OSX Installer
 =================
 =================
